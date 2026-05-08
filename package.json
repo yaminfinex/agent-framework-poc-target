@@ -1,0 +1,11 @@
+{
+  "name": "agent-framework-poc-target",
+  "version": "0.0.0",
+  "scripts": {
+    "typecheck": "tsc --noEmit",
+    "test": "npm run typecheck"
+  },
+  "devDependencies": {
+    "typescript": "^5.0.0"
+  }
+}
