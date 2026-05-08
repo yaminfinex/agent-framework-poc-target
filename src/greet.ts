@@ -6,3 +6,6 @@
 export function hello(name?: string): string {
   return `Hello, ${name ?? "World"}!`;
 }
+
+// intentional type error for CI validation
+const _bad: string = hello(42);
