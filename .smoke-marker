@@ -1,0 +1,4 @@
+# Smoke marker file
+# Added for webhook-e2e integration test after trace fix
+# Issue: ENG-6960
+# Timestamp: 2026-05-12T08:14:48.535Z
